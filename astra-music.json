@@ -1,0 +1,28 @@
+{
+  "tracks": [
+    {
+      "url": "/music/1970%E5%B9%B4.mp3",
+      "title": "1970年"
+    },
+    {
+      "url": "/music/%E5%8F%AF%E6%84%9B%E3%81%84%E6%80%9D%E3%81%84%E5%87%BA%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%AB.mp3",
+      "title": "可愛い思い出オルゴール"
+    },
+    {
+      "url": "/music/%E9%9D%92%E7%A9%BA%E9%AF%A8.mp3",
+      "title": "青空鯨"
+    },
+    {
+      "url": "/music/%E9%81%A0%E3%81%84%E6%98%94%E3%81%AE%E6%97%A5.mp3",
+      "title": "遠い昔の日"
+    },
+    {
+      "url": "/music/Opnening_theme.mp3",
+      "title": "Opnening_theme"
+    },
+    {
+      "url": "/music/%E5%A4%95%E9%99%BD%E3%81%AE%E5%B8%B0%E3%82%8A%E9%81%93_2.mp3",
+      "title": "夕陽の帰り道_2"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Water this way",
+  "builtAt": "2026-09-15T11:37:03.939Z",
+  "base": "/water-this-way-exhibition/",
+  "profileSHA256": "184e46beddb34632d888bc629877d87d524e856ad805890cc09fc5c7e0becd2a",
+  "serverRequired": false,
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "README.md",
+      "bytes": 470,
+      "sha256": "4ed7f272611c7573e7d675e93dff3a2b31f05e46953d3127e1038ff5c3e81244"
+    },
+    {
+      "path": "assets/index-BP8MLNN3.js",
+      "bytes": 527053,
+      "sha256": "c0ea2fa26acc8d28c7a884f075e2f62195faa394a236216ba5e70b920b5bf5cb"
+    },
+    {
+      "path": "assets/index-DPGmLaZq.css",
+      "bytes": 16290,
+      "sha256": "d65b5496e20f03fddfa4293f9e057ef752c1895f8628a67329ad183af4ba7e9c"
+    },
+    {
+      "path": "assets/occupancyWorker-Dwn2rxWT.js",
+      "bytes": 4271,
+      "sha256": "f743ff8457e0e84bac46eb68dbe5caf6139ef76e01678249444cf208ef5b5acb"
+    },
+    {
+      "path": "astra-assets/meadow-ground-v1.png",
+      "bytes": 3945258,
+      "sha256": "96a69546049cf6058f01147460656bc3517f77de0e58d93ff15a6c58e4ff7c64"
+    },
+    {
+      "path": "astra-music.json",
+      "bytes": 727,
+      "sha256": "380dc62907f7617ba6f97c74f6eb776948abcad938587765e034af773d1a301b"
+    },
+    {
+      "path": "astra-sfx.json",
+      "bytes": 414,
+      "sha256": "807f79223e96a0470978937a4f8d555717cd54f6ba6d3448614bd256de6853e6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1076,
+      "sha256": "6fe216bba61c39e6186526c0cecbf5a6594eb1cb6710b06038fd5d676fe032ef"
+    },
+    {
+      "path": "music/1970年.mp3",
+      "bytes": 2516139,
+      "sha256": "21639f18260535fb4704851d57b9476a2917785b6035d5401ed4e5169564f47e"
+    },
+    {
+      "path": "music/Opnening_theme.mp3",
+      "bytes": 3831718,
+      "sha256": "1dd386369e9801d0b7fdd5300023cce1a9c8101b3aa5314e99de3beb60e2c1de"
+    },
+    {
+      "path": "music/可愛い思い出オルゴール.mp3",
+      "bytes": 5889809,
+      "sha256": "a232ad809ce2a14eed08ad1a8a1737dc0567abd092ed05ae6475dde77911827a"
+    },
+    {
+      "path": "music/夕陽の帰り道_2.mp3",
+      "bytes": 3838509,
+      "sha256": "9bd451a0105741b9fa304e54732302a9249725945d6ddd66c24e5a42c168a990"
+    },
+    {
+      "path": "music/遠い昔の日.mp3",
+      "bytes": 3819693,
+      "sha256": "c57892196db3afe3568df90c629cfec616ec0ec74275566b67c3ec5bf21838b7"
+    },
+    {
+      "path": "music/青空鯨.mp3",
+      "bytes": 3819693,
+      "sha256": "8cc19ed0b0830e732db889407c85dbb574e65b196612ecd2a75e9551133a673c"
+    },
+    {
+      "path": "sfx/ゲージ回復1.mp3",
+      "bytes": 33853,
+      "sha256": "cce1e9be62889266a3edc1a631cc7b41a788e5592d287fb2722afcb7e77f860c"
+    },
+    {
+      "path": "sfx/可愛く輝く2.mp3",
+      "bytes": 43257,
+      "sha256": "64e5ee039d455af633191c18643c9b2a9e3d1eb42b416afbab0063b609f9bfd1"
+    },
+    {
+      "path": "sfx/魚を釣り上げる.mp3",
+      "bytes": 29376,
+      "sha256": "d1a331660831139bd3e98b9c92b13c96fad478c5f77263d089cfc5b4356154d1"
+    },
+    {
+      "path": "water/index.html",
+      "bytes": 1076,
+      "sha256": "6fe216bba61c39e6186526c0cecbf5a6594eb1cb6710b06038fd5d676fe032ef"
+    }
+  ]
+}
