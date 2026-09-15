@@ -1,6 +1,6 @@
 {
   "title": "Water this way",
-  "builtAt": "2026-09-15T11:37:03.939Z",
+  "builtAt": "2026-09-15T11:55:39.173Z",
   "base": "/water-this-way-exhibition/",
   "profileSHA256": "184e46beddb34632d888bc629877d87d524e856ad805890cc09fc5c7e0becd2a",
   "serverRequired": false,
@@ -16,14 +16,14 @@
       "sha256": "4ed7f272611c7573e7d675e93dff3a2b31f05e46953d3127e1038ff5c3e81244"
     },
     {
-      "path": "assets/index-BP8MLNN3.js",
-      "bytes": 527053,
-      "sha256": "c0ea2fa26acc8d28c7a884f075e2f62195faa394a236216ba5e70b920b5bf5cb"
-    },
-    {
       "path": "assets/index-DPGmLaZq.css",
       "bytes": 16290,
       "sha256": "d65b5496e20f03fddfa4293f9e057ef752c1895f8628a67329ad183af4ba7e9c"
+    },
+    {
+      "path": "assets/index-xX0WGtNF.js",
+      "bytes": 527466,
+      "sha256": "909a8bc9a29a2af97d7f9e5582bdbec25145f0ab605c0477b331557fcbd8589f"
     },
     {
       "path": "assets/occupancyWorker-Dwn2rxWT.js",
@@ -48,7 +48,7 @@
     {
       "path": "index.html",
       "bytes": 1076,
-      "sha256": "6fe216bba61c39e6186526c0cecbf5a6594eb1cb6710b06038fd5d676fe032ef"
+      "sha256": "7b054451e70b3aaa398e2a7be97fbfa119b048997e29bd89242a29d28410e256"
     },
     {
       "path": "music/1970年.mp3",
@@ -98,7 +98,7 @@
     {
       "path": "water/index.html",
       "bytes": 1076,
-      "sha256": "6fe216bba61c39e6186526c0cecbf5a6594eb1cb6710b06038fd5d676fe032ef"
+      "sha256": "7b054451e70b3aaa398e2a7be97fbfa119b048997e29bd89242a29d28410e256"
     }
   ]
 }
